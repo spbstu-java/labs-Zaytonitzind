@@ -18,6 +18,12 @@ public class Square {
         return side*side;
     }
 
+    @Repeater(times = 5)
+    public void printUselessMsg()
+    {
+        System.out.println("Метод для проверки");
+    }
+
     public int calculatePerimeter()
     {
         return side*4;
