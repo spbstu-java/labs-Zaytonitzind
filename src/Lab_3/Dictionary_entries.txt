@@ -1,0 +1,8 @@
+look | смотреть
+dog | собака
+cat | кот
+cow | корова
+jump | прыгать
+look forward | ожидать
+look after | присматривать за
+look forward it | ожидать это
